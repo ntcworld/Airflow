@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="8b214aa0-0f97-40e3-b792-8ca0d865fd12" name="airflowserver" url="http://localhost">
+        <fileTransfer mountedRoot="$USER_HOME$/airflow/dags" accessType="MOUNT" port="0" />
+      </webServer>
+    </option>
+  </component>
+</project>
